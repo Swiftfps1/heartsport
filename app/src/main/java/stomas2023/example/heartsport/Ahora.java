@@ -10,7 +10,6 @@ public class Ahora extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ahora);
-    ////asdasfdasfaf
-        //asdasfdasfasf
+    
     }
 }
