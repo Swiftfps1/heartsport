@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Otras configuraciones de tema -->
+
+        <!-- Desactivar animaciones para el ProgressBar -->
+        <item name="android:progressBarStyle">@android:style/Widget.ProgressBar</item>
+    </style>
+
+</resources>
